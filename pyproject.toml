@@ -1,6 +1,6 @@
 [project]
 name = "euler"
-version = "1.0.3"
+version = "1.0.4"
 authors = [{ name = "NeverLocal" }]
 description = "A library for Euler angle computation and conversion."
 readme = { file = "README.md", content-type = "text/markdown" }
@@ -19,8 +19,8 @@ classifiers = [
 ]
 
 [project.urls]
-Repository = "https://github.com/neverlocal/euler"
-Issues = "https://github.com/neverlocal/euler/issues"
+Repository = "https://github.com/spooqy-ai/euler"
+Issues = "https://github.com/spooqy-ai/euler/issues"
 
 [build-system]
 requires = [
