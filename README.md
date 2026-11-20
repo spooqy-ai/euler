@@ -95,4 +95,4 @@ and have been independently verified (see the [`test`](./test/) folder).
 
 ## License
 
-[LGPLv3](./LICENSE) © NeverLocal Ltd
+[LGPLv3](./LICENSE) © Spooqy
